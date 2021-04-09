@@ -107,6 +107,9 @@ https://asecuritysite.com/encryption/ssid_hm
 How to hack WiFi networks with mobile Raspberry Pi set?  
 https://secabit.medium.com/how-to-hack-wifi-networks-with-mobile-raspberry-pi-set-9feb2b43a49  
 
+WiFite2
+https://github.com/derv82
+
 Put your network device into monitor mode / Turn off Int / Set interface down  
 ```bash
 sudo ip link set wlan0 down  
